@@ -2,50 +2,43 @@
   {
     "Title": "Avatar",
     "Year": "2009",
-	"Awards": "Won 3 Oscars. Another 80 wins & 121 nominations.",
+    "Awards": "Won 3 Oscars. Another 80 wins & 121 nominations.",
     "Genre": "Fantasy"
-    ]
   },
   {
     "Title": "I Am Legend",
     "Year": "2007",
-	"Awards": "9 wins & 21 nominations.",
+    "Awards": "9 wins & 21 nominations.",
     "Genre": "Drama"
-    ]
   },
   {
     "Title": "300",
     "Year": "2006",
-	"Awards": "16 wins & 42 nominations.",
+    "Awards": "16 wins & 42 nominations.",
     "Genre": "Action"
-    ]
   },
   {
     "Title": "The Avengers",
     "Year": "2012",
-	"Awards": "Nominated for 1 Oscar. Another 34 wins & 75 nominations.",
+    "Awards": "Nominated for 1 Oscar. Another 34 wins & 75 nominations.",
     "Genre": "Action"
-    ]
   },
   {
     "Title": "The Wolf of Wall Street",
     "Year": "2013",
-	"Awards": "Nominated for 5 Oscars. Another 35 wins & 154 nominations.",
+    "Awards": "Nominated for 5 Oscars. Another 35 wins & 154 nominations.",
     "Genre": "Biography"
-    ]
   },
   {
     "Title": "Interstellar",
     "Year": "2014",
-	"Awards": "Won 1 Oscar. Another 39 wins & 134 nominations.",
+    "Awards": "Won 1 Oscar. Another 39 wins & 134 nominations.",
     "Genre": "Adventure"
-    ]
   },
   {
     "Title": "Game of Thrones",
     "Year": "2011",
-	"Awards": "Won 1 Golden Globe. Another 185 wins & 334 nominations.",
+   "Awards": "Won 1 Golden Globe. Another 185 wins & 334 nominations.",
     "Genre": "Adventure"
-    ]
   }
 ]
